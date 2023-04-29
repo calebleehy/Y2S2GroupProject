@@ -18,11 +18,11 @@ Write-up:
 
 3. Question 1: The title should relate to the question you are answering.
 
-• Introduction (1 paragraph): Introduction to the question and which parts of the data set are used to answer the question. Discuss why you are interested in this question.
+  • Introduction (1 paragraph): Introduction to the question and which parts of the data set are used to answer the question. Discuss why you are interested in this question.
 
-• Methodology (1-2 paragraphs): Describe the visualizations you make to answer your question. For each plot, explain what variables you are plotting and provide a clear explanation as to why it is the best for providing the information you are
+  • Methodology (1-2 paragraphs): Describe the visualizations you make to answer your question. For each plot, explain what variables you are plotting and provide a clear explanation as to why it is the best for providing the information you are
 asking about. Two plots for the same question should be of different types.
 
-• Visualizations (2-3 code blocks and 2 figures): In this section, provide the code that generates the plots. All plots must be made with ggplot2. Do not use base R or other plotting packages.
+  • Visualizations (2-3 code blocks and 2 figures): In this section, provide the code that generates the plots. All plots must be made with ggplot2. Do not use base R or other plotting packages.
 
-• Discussions (1-2 paragraphs): Describe the primary information you hope the reader will gain from your visualization. Identify any trends revealed (or not revealed) by the plots. Explore and explain why the data looks the way it does.
+  • Discussions (1-2 paragraphs): Describe the primary information you hope the reader will gain from your visualization. Identify any trends revealed (or not revealed) by the plots. Explore and explain why the data looks the way it does.
